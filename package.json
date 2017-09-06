@@ -1,6 +1,6 @@
 {
   "name": "object-storage-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synchronization files between object storages",
   "main": "index.js",
   "bin": "lib/cli.js",
